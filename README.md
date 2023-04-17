@@ -20,3 +20,6 @@ This repos services as template for quickly spinning up new Node.js based Lambda
 - `npm run deploy`: deploy the app to aws
   - Requires that the environment variable `FUNCTION_NAME` be set
 - `npm run build-and-deploy`: builds, packages, and deploys the app
+
+## Infrastructure
+See [Infra README](./infra/README.md)
